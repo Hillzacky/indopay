@@ -1,0 +1,18 @@
+{
+    "name": "hillzacky/indopay",
+    "description": "Library Class Pembayaran digital di indonesia menggunakan PHP. Payment for digital library classes in Indonesia uses php.",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Hillzacky\\Indopay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hillzacky",
+            "email": "hilm4nsyah@gmail.com"
+        }
+    ],
+    "require": {}
+}
